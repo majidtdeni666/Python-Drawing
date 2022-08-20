@@ -1,7 +1,6 @@
 # Python-Drawing (Kali-Linux Only)
 
 # command line
-#
 - apt-get install python
 - apt-get install python-pip
 - pip install turtle
